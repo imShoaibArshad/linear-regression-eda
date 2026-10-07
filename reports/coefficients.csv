@@ -1,0 +1,17 @@
+feature,coefficient
+cat__ocean_proximity_ISLAND,112060.24445190416
+num__median_income,78904.43939684216
+num__latitude,-56638.23115890873
+num__longitude,-56276.058851863585
+cat__ocean_proximity_INLAND,-53617.840376118846
+num__population,-46320.28547055706
+num__households,40233.724848251695
+cat__ocean_proximity_NEAR BAY,-24109.1851316696
+cat__ocean_proximity_<1H OCEAN,-18666.47855330952
+num__bedrooms_per_room,16809.104551355496
+cat__ocean_proximity_NEAR OCEAN,-15666.740390805979
+num__housing_median_age,14122.304751979344
+num__rooms_per_household,7699.448488381543
+num__total_rooms,5881.104980269712
+num__total_bedrooms,5307.662996776441
+num__population_per_household,750.3679429049104
